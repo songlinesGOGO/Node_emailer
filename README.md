@@ -2,7 +2,7 @@
 
 Simple Node.js app using Nodemailer to send emails
 
-- Please add your own SMTP info for it to work
+You can add your own SMTP info to make it work
 
 ### Version
 
