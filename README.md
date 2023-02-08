@@ -1,6 +1,6 @@
 # Node Contact Form
 
-Simple Node.js/Express app using Nodemailer to send emails
+Simple Node.js app using Nodemailer to send emails
 
 - Please add your own SMTP info for it to work
 
